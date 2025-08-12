@@ -14,8 +14,9 @@ HTML5, CSS3, JavaScript
 ## 데모  
 [배포 페이지 링크](https://leetech1999.github.io/web_Shooting_game/)  <!-- 실제 링크 확인 필요 -->
 
-## 설치 및 실행 방법  
+## 설치 및 실행 방법
+
+1. 저장소 클론 또는 ZIP 다운로드 후 압축 해제
 ```bash
 git clone https://github.com/Leetech1999/molegame.git
 cd molegame
-# 필요시 npm install 등
